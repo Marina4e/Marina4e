@@ -21,7 +21,7 @@ If you like my projects and want to support my work, you can donate here:
     <img src="https://img.shields.io/badge/Donate-Monobank-1f6feb?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Donate via Monobank" />
   </a>
 </p> -->
-# 💫 About Me
+<!--# 💫 About Me
 
 Hi! I’m Marina 👋
 I build practical projects, learn fast, and survive bugs with dignity.
@@ -39,7 +39,7 @@ I build practical projects, learn fast, and survive bugs with dignity.
 * Full Stack Web Development
 * Data Science and AI Projects
 * API Design and Real Project Architecture
-* Building a strong portfolio for future AI Engineer roles
+* Building a strong portfolio for future Full-stack development or AI Engineer roles
 
 ## ✨ Featured Projects
 
@@ -55,8 +55,7 @@ Here are a few areas I’m most focused on:
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-cherkashchenko-39b3a8335/)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherkashchenko.marina@gmail.com)   
-
+[![Email](https://img.shields.io/badge/Email-CB9A94?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cherkashchenko.marina@gmail.com)
 
 ## 💻 Core Tech
 
@@ -136,5 +135,133 @@ If you like my projects and want to support my work, you can donate here:
 <p align="left">
   <a href="https://send.monobank.ua/jar/5pqmYbx5g8" target="_blank">
     <img src="https://img.shields.io/badge/Donate-Monobank-4f7596?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Donate via Monobank" />
+  </a>
+</p>
+-->
+
+# 💫 About Me
+
+Hi! I’m Marina 👋
+I build practical projects, learn fast, and survive bugs with dignity.
+
+* 🔭 I’m currently working on **Python, full stack projects, and Data Science labs**
+* 🌱 I’m currently learning more about **backend systems, cloud tools, data engineering, AI tools, and LLMs**
+* 👯 I’m looking to collaborate on **AI-driven ideas, practical web apps, and production-level projects**
+* 🤝 I’m looking for help with **real-world engineering practices and stronger production-ready development**
+* 💬 Ask me about **Python, Java, AI, QA, and learning programming through practice**
+* ⚡ Fun fact: I collect repositories faster than I collect free time
+
+## 🚀 Current Focus
+
+* Python Backend Development
+* Full Stack Web Development
+* Data Science and AI Projects
+* API Design and Real Project Architecture
+* Building a strong portfolio for future Full-stack development or AI Engineer roles
+
+## ✨ Featured Projects
+
+Here are a few areas I’m most focused on:
+
+* **Django / FastAPI Projects** — backend logic, APIs, authentication, admin features, and testing
+
+* **Full Stack Practice Projects** — practical apps with frontend + backend integration
+
+* **Data Science Projects** — analytics, notebooks, visualization, and ML fundamentals
+
+* **AI Automation Projects** — pipelines, parsing, scheduling, content workflows, and automation scenarios
+
+* **Telegram Bot Projects** — Telegram bots, AI-powered bot workflows, and automation for content delivery and interaction
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marina-cherkashchenko-39b3a8335/)
+[![Email](https://img.shields.io/badge/Email-CB9A94?logo=gmail\&logoColor=white)](mailto:cherkashchenko.marina@gmail.com)
+
+## 💻 Core Tech
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-CBBFA6?logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-BFAE92?logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-D8CBB2?logo=javascript\&logoColor=white)
+
+### Automation & Platforms
+
+![Telegram](https://img.shields.io/badge/Telegram-8FB4C8?logo=telegram\&logoColor=white)
+![Make](https://img.shields.io/badge/Make-8E84AA?logo=make\&logoColor=white)
+
+### Frontend & Markup
+
+![HTML5](https://img.shields.io/badge/HTML5-BFA58C?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-CBB59E?logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-D6C4AE?logo=react\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-B7AA96?logo=markdown\&logoColor=white)
+
+### Backend & APIs
+
+![Django](https://img.shields.io/badge/Django-7B8F72?logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-879A7D?logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-93A688?logo=flask\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6F8467?logo=spring\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-8D7C88?logo=graphql\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-809576?logo=node.js\&logoColor=white)
+
+### Databases & Messaging
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8FA9BD?logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-A0B7C8?logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-B1C4D1?logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-98A992?logo=mongodb\&logoColor=white)
+![Microsoft\_SQL\_Server](https://img.shields.io/badge/Microsoft_SQL_Server-A7B8C4?logo=microsoftsqlserver\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-BD9A8F?logo=redis\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-C7A58E?logo=rabbitmq\&logoColor=white)
+
+### Data Science & AI
+
+![Tableau](https://img.shields.io/badge/Tableau-9AA7B5?logo=tableau\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8A84A3?logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-7D89A6?logo=numpy\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-BFA88D?logo=scikitlearn\&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8D9CB3?logo=scipy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-A7B4BF?logo=plotly\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-96A3B5?logo=plotly\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-C7A48D?logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-BB958B?logo=pytorch\&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-8AA084?logo=anaconda\&logoColor=white)
+
+### Tools, Cloud & Dev Workflow
+
+![Docker](https://img.shields.io/badge/Docker-8FAEC6?logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-B9A48D?logo=amazonaws\&logoColor=white)
+![Google\_Cloud](https://img.shields.io/badge/Google_Cloud-A2B7C7?logo=googlecloud\&logoColor=white)
+![GitHub\_Actions](https://img.shields.io/badge/GitHub_Actions-8FA4B8?logo=githubactions\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-C4A08C?logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-94A786?logo=swagger\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-7E9475?logo=nginx\&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-B58F8F?logo=apache\&logoColor=white)
+![Testing\_Library](https://img.shields.io/badge/Testing_Library-C39A9A?logo=testinglibrary\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-8DA5C2?logo=jira\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-C79F87?logo=grafana\&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-97A6B2?logo=gradle\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-9AB2C8?logo=powershell\&logoColor=white)
+![Windows\_Terminal](https://img.shields.io/badge/Windows_Terminal-A9B4BE?logo=windowsterminal\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-B4AA9D?logo=notion\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-9EB7C0?logo=canva\&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-C89A94?logo=adobe\&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=marina4e\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://streak-stats.demolab.com/?user=marina4e\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=marina4e\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
+## 💙 Support Me
+
+If you like my projects and want to support my work, you can donate here:
+
+<p align="left">
+  <a href="https://send.monobank.ua/jar/5pqmYbx5g8" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Monobank-4f7596?logo=githubsponsors&logoColor=white" alt="Donate via Monobank" />
   </a>
 </p>
