@@ -61,25 +61,21 @@ Here are a few areas I’m most focused on:
 ## 💻 Core Tech
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-CBBFA6?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-BFAE92?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D8CBB2?style=for-the-badge\&logo=javascript\&logoColor=white)
 
 ### Automation & Platforms
-
 ![Telegram](https://img.shields.io/badge/Telegram-8FB4C8?style=for-the-badge&logo=telegram&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-8E84AA?style=for-the-badge&logo=make&logoColor=white)
 
 ### Frontend & Markup
-
 ![HTML5](https://img.shields.io/badge/HTML5-BFA58C?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-CBB59E?style=for-the-badge\&logo=css3\&logoColor=white)
 ![React](https://img.shields.io/badge/React-D6C4AE?style=for-the-badge\&logo=react\&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-B7AA96?style=for-the-badge\&logo=markdown\&logoColor=white)
 
 ### Backend & APIs
-
 ![Django](https://img.shields.io/badge/Django-7B8F72?style=for-the-badge\&logo=django\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-879A7D?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-93A688?style=for-the-badge\&logo=flask\&logoColor=white)
@@ -88,7 +84,6 @@ Here are a few areas I’m most focused on:
 ![Node.js](https://img.shields.io/badge/Node.js-809576?style=for-the-badge\&logo=node.js\&logoColor=white)
 
 ### Databases & Messaging
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-8FA9BD?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-A0B7C8?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-B1C4D1?style=for-the-badge\&logo=sqlite\&logoColor=white)
@@ -98,7 +93,7 @@ Here are a few areas I’m most focused on:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-C7A58E?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 
 ### Data Science & AI
-
+![Tableau](https://img.shields.io/badge/Tableau-9AA7B5?style=for-the-badge&logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8A84A3?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-7D89A6?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-BFA88D?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
@@ -108,10 +103,8 @@ Here are a few areas I’m most focused on:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-C7A48D?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-BB958B?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-8AA084?style=for-the-badge\&logo=anaconda\&logoColor=white)
-<-- ![Make](https://img.shields.io/badge/Make-8E84AA?style=for-the-badge\&logo=make\&logoColor=white) -->
 
 ### Tools, Cloud & Dev Workflow
-
 ![Docker](https://img.shields.io/badge/Docker-8FAEC6?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-B9A48D?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Google\_Cloud](https://img.shields.io/badge/Google_Cloud-A2B7C7?style=for-the-badge\&logo=googlecloud\&logoColor=white)
