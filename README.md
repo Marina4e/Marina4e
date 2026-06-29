@@ -59,7 +59,7 @@ Here are a few areas I’m most focused on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marina-cherkashchenko-39b3a8335/)
 [![Email](https://img.shields.io/badge/Email-CB9A94?logo=gmail\&logoColor=white)](mailto:cherkashchenko.marina@gmail.com)
-**Email:** cherkashchenko.marina@gmail.com
+cherkashchenko.marina@gmail.com
 
 
 ## 💻 Core Tech
