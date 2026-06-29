@@ -50,7 +50,14 @@ Here are a few areas I’m most focused on:
 * **Data Science Projects** — analytics, notebooks, visualization, and ML fundamentals
 * **AI Automation Projects** — pipelines, parsing, scheduling, content workflows, and automation scenarios
 * **Telegram Bot Projects** — Telegram bots, AI-powered bot workflows, and automation for content delivery and interaction
+
   
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marina-cherkashchenko-39b3a8335/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cherkashchenko.marina@gmail.com)   
+
+
 ## 💻 Core Tech
 
 ### Languages
@@ -58,6 +65,11 @@ Here are a few areas I’m most focused on:
 ![Python](https://img.shields.io/badge/Python-CBBFA6?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-BFAE92?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-D8CBB2?style=for-the-badge\&logo=javascript\&logoColor=white)
+
+### Automation & Platforms
+
+![Telegram](https://img.shields.io/badge/Telegram-8FB4C8?style=for-the-badge&logo=telegram&logoColor=white)
+![Make](https://img.shields.io/badge/Make-8E84AA?style=for-the-badge&logo=make&logoColor=white)
 
 ### Frontend & Markup
 
@@ -96,7 +108,7 @@ Here are a few areas I’m most focused on:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-C7A48D?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-BB958B?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-8AA084?style=for-the-badge\&logo=anaconda\&logoColor=white)
-![Make](https://img.shields.io/badge/Make-8E84AA?style=for-the-badge\&logo=make\&logoColor=white)
+<-- ![Make](https://img.shields.io/badge/Make-8E84AA?style=for-the-badge\&logo=make\&logoColor=white) -->
 
 ### Tools, Cloud & Dev Workflow
 
@@ -133,17 +145,3 @@ If you like my projects and want to support my work, you can donate here:
     <img src="https://img.shields.io/badge/Donate-Monobank-4f7596?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Donate via Monobank" />
   </a>
 </p>
-
----
-[![](https://komarev.com/ghpvc/?username=marina4e&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💙 Support Me
-
-If you like my projects and want to support my work, you can donate here:
-
-<p align="left">
-  <a href="https://send.monobank.ua/jar/5pqmYbx5g8" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-Monobank-1f6feb?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Donate via Monobank" />
-  </a>
-</p> -->
-
